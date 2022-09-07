@@ -15,3 +15,4 @@ It is application which is having 4 section
 Netlify
 
 # Preview
+![mark12](https://user-images.githubusercontent.com/110533153/188842174-973e38ae-e606-43fe-bf25-2124c2026231.PNG)
